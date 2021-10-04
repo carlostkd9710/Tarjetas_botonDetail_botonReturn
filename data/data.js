@@ -3,17 +3,17 @@ export const data =
     {
         "id":1,
         "name": "Yoda",
-        "image":"/images/1.jpg"
+        "image":"images/1.jpg"
     },
     {
         "id":2,
         "name": "Stormtroopers",
-        "image":"/images/2.jpg"
+        "image":"images/2.jpg"
     },
     {
         "id":3,
         "name": "R2-D2 && C3-PO",
-        "image":"/images/3.jpg"
+        "image":"images/3.jpg"
     },
     {
         "id":4,
@@ -23,11 +23,11 @@ export const data =
     {
         "id":5,
         "name": "Obi-Wan Kenobi",
-        "image":"/images/5.jpg"
+        "image":"images/5.jpg"
     },
     {
         "id":6,
         "name": "Chewbacca",
-        "image":"/images/6.jpg"
+        "image":"./images/6.jpg"
     }
 ]
