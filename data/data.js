@@ -18,7 +18,7 @@ export const data =
     {
         "id":4,
         "name": "Darth Vader",
-        "image":"/images/4.jpg"
+        "image":"./images/4.jpg"
     },
     {
         "id":5,
